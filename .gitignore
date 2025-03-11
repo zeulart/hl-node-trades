@@ -1,1 +1,4 @@
 /target
+.env
+*.log
+digest.txt
